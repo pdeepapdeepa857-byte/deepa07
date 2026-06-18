@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "DAY3.JAVA",
+			"path": "../DAY3.JAVA"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
